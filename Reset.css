@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    --font-family: "Inter", sans-serif;
+    --white: hsl(0, 0%, 100%);
+    --green: hsl(75, 94%, 57%);
+    --gray-700: hsl(0, 0%, 20%);
+    --gray-800: hsl(0, 0%, 12%);
+    --gray-900: hsl(0, 0%, 8%);
+    --font-weight-400: 400;
+    --font-weight-600: 600;
+    --font-weight-700: 700;
+    --font-size-paragraph: 0.65rem;
+    --font-size-title: 1.3rem;
+  }
+  

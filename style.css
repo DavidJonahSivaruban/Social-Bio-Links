@@ -1,0 +1,74 @@
+body{
+        min-height: 100vh;
+        background-color: black;
+        font-family: inter;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+}
+
+a {
+    text-decoration: none;
+  }
+
+  main {
+    margin: auto;
+    background: rgb(34, 34, 34);
+    border-radius: 0.5rem;
+    padding: 1.5rem;
+  }
+
+  header{
+    text-align: center;
+  }
+
+  .jessica-pic{
+    border-radius: 50%;
+    margin-bottom: 1rem;
+  }
+
+h2{
+    font-size: 1.5rem;
+    color: white;
+    margin-bottom: 0.5rem;
+}
+
+h3{
+    font-size: 0.93rem;
+    color: rgb(171, 218, 5);
+}
+
+p{
+    color: white;
+    font-size: 0.93rem;
+    margin: 1.1rem;
+}
+
+ul{
+    list-style-type: none
+}
+
+li{
+    margin: 0.7rem;
+}
+
+.click-button{
+    color: white;
+    background: rgb(67, 67, 67);
+    text-align: center;
+    display: block;
+    padding: 0.65rem 4rem;
+    border-radius: 0.3rem;
+    font-weight: bold;
+    font-size: 0.93rem
+}
+
+.attribution-footer{
+    margin: 1rem;
+    color: gray;
+}
+
+a:hover{
+    background-color: rgb(162, 255, 0);
+}
